@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+   <concept id="c_ConventionsReviewer">
+   <title>Lorem dolor</title>
+   <shortdesc>Lorem dolor amet adipisicing sed eiusmod incididunt
+        et magna Ut ad veniam, nostrud
+           aliquip ea consequat aute</shortdesc>
+   <!--Add a short description that expands on the title (not a duplicate) to provide additional information about the content of the topic. When writing short descriptions for concepts, include information such as:
+1. A summary of the main point of the content
+2. Why this information is important-->
+      <prolog>
+         <author type="contributor">radu_coravu2</author>
+         <critdates>
+            <!--radu_coravu2-->
+            <revised modified="2017/12/20"/>
+         </critdates>
+          <metadata>
+         <audience type="support"/>
+         <audience type="implementation"/>
+         <category base="flightplanning" audience="GMA"/>
+         <category base="dispatch" audience="CA"/>
+         <prodinfo>
+            <prodname>
+               <keyword keyref="prodname"/>
+            </prodname>
+            <vrmlist>
+               <vrm audience="GMA" version="6" release="2" modification="1"/>
+               <vrm audience="CA" version="1" release="0" modification="1"/>
+            </vrmlist>
+            <featnum/>
+         </prodinfo>
+      </metadata>
+      <change-historylist>
+         <change-item rev="" name="change-item">
+            <change-request-reference name="change-request-reference">
+               <change-request-system name="change-request-system"
+                  >Lorem</change-request-system>
+               <change-request-id name="change-request-id"
+                  >Lorem</change-request-id>
+            </change-request-reference>
+            <change-completed name="change-completed"/>
+            <change-summary name="change-summary">Lorem dolor
+               </change-summary>
+         </change-item>
+      </change-historylist>
+   </prolog>
+   <conbody>
+      <p>
+         <table id="table_LegendConditionalText" frame="all" rowsep="1" colsep="1">
+            <title><ph>Lorem dolor amet adipisicing</ph></title>
+            <tgroup cols="2">
+               <colspec colname="c1" colnum="1" colwidth="1*" colsep="0"/>
+               <colspec colname="c2" colnum="2" colwidth="1.35*"/>
+               <thead>
+                  <row>
+                     <entry align="left">Lorem dolor amet adipisicing sed</entry>
+                     <entry align="left">Lorem dolor amet adipisicing sed</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor</entry>
+                  </row>
+                  <row otherprops="MissionFileManager">
+                     <entry><ph otherprops="MissionFileManager">Lorem</ph></entry>
+                     <entry><ph otherprops="MissionFileManager">Lorem dolor amet adipisicing sed eiusmod incididunt  
+                        </ph></entry>
+                  </row>
+                  <row audience="CA">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod</entry>
+                  </row>
+                  <row otherprops="RouteSelectorLocal">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod incididunt 
+                             ex commodo
+                        pariatur sint cupidatat proident in qui   
+                            et</entry>
+                  </row>
+                  <row audience="GMA">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod</entry>
+                  </row>
+                  <row audience="internal">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod
+                        ullamco</entry>
+                  </row>
+                  <row audience="ITAR">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod incididunt
+                        nisi </entry>
+                  </row>
+                  <row deliveryTarget="pdf">
+                     <entry>Lorem</entry>
+                     <entry>Lorem dolor amet adipisicing sed eiusmod incididunt 
+                             ex commodo
+                        pariatur sint cupidatat proident in qui  
+                         </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table></p>
+   </conbody>
+</concept>
