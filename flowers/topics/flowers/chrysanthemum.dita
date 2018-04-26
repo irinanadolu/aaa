@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="chrysanthemum">
-    <title>Chrysanthemum aaa</title>
+    <title>Chrysanthemum<?oxy_delete author="irinanadolu" timestamp="20180426T114846+0300" content=" aaa"?></title>
     <body>
         <p><i>From Wikipedia, the free encyclopedia.</i></p>
         <p><b>Chrysanthemums</b><indexterm>flowers<indexterm>autumn<indexterm>chrysanthemums</indexterm></indexterm></indexterm>,
@@ -38,3 +38,4 @@
         <link href="salvia.dita#salvia"/>
     </related-links>
 </topic>
+<?oxy_options track_changes="on"?>
