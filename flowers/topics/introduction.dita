@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="introduction">
-    <title>Introduction</title>
-    <shortdesc>With just a little bit of care and preparation, any flower garden can be a vibrantly
-        colored environment.</shortdesc>
+    <title><?oxy_delete author="irinanadolu" timestamp="20181005T121655+0300" content="Introduction"?><?oxy_insert_start author="irinanadolu" timestamp="20181005T121656+0300"?>
+        Introducere<?oxy_insert_end?></title>
+    <shortdesc><?oxy_comment_start author="irinanadolu" timestamp="20181005T121705+0300" comment="aaa"?>With
+        just a little bit of care and preparation<?oxy_comment_end?>, any flower garden can be a
+        vibrantly colored environment.</shortdesc>
     <body>
         <p>With just a little bit of care and preparation, any flower garden can be a vibrantly
             colored environment. Flowers can be selected for specific blooming seasons, colors and
@@ -11,3 +13,4 @@
             flower gardens can be planted depending on climate and specific needs.</p>
     </body> 
 </topic>
+<?oxy_options track_changes="on"?>
