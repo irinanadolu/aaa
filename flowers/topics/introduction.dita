@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="introduction">
     <title><?oxy_delete author="irinanadolu" timestamp="20181005T121655+0300" content="Introduction"?><?oxy_insert_start author="irinanadolu" timestamp="20181005T121656+0300"?>
-        Introducere<?oxy_insert_end?>a</title>
+        <?oxy_insert_end?>Introducer ea</title>
     <shortdesc><?oxy_comment_start author="irinanadolu" timestamp="20181005T121705+0300" comment="aaa"?>With
         just a little bit of care and preparation<?oxy_comment_end?>, any flower garden can be a
         vibrantly colored environment.</shortdesc>
