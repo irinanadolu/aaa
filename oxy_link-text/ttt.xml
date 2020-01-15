@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tt.css"?>
+<root>
+	
+	
+	<para><code id="para.id" xreflabel="The reference label">my code</code>
+	</para>
+	<para><xref linkend="para.id"/></para>
+	
+</root>
