@@ -1,0 +1,3 @@
+xref:before(200) {
+  content: url(oxy_concat('http://localhost:8080/', oxy_link-text()));
+}
