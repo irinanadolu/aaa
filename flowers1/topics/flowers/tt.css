@@ -1,3 +1,8 @@
 xref:before(200) {
   content: url(oxy_concat('http://localhost:8080/', oxy_link-text()));
 }
+
+*[class~="map/topicref"]:before{
+    content: oxy_link-text("Cannot find the topic reference");
+    link:attr(href);
+}
