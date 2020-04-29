@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gzw_rdf_nlb">
-    <title><b>Queen bee</b></title>
+    <title><b>Queen bee<?oxy_insert_start author="webauthor" timestamp="20200429T110708+0300"?>
+            Web Author<?oxy_insert_end?></b></title>
     <shortdesc/>
     <body>
-        <p>The term <b>queen bee</b> is typically used to refer to an adult, mated female (<xref
-                href="https://en.wikipedia.org/wiki/Gyne" format="html" scope="external"
-            >gyne</xref>) that lives in a <xref href="https://en.wikipedia.org/wiki/Honey_bee"
-                format="html" scope="external">honey bee</xref>
-            <xref href="https://en.wikipedia.org/wiki/Colony_(biology)" format="html"
-                scope="external">colony</xref> or <xref href="https://en.wikipedia.org/wiki/Beehive"
-                format="html" scope="external">hive</xref>; she is usually the mother of most, if
-            not all, of the bees in the beehive.<sup><xref
-                    href="https://en.wikipedia.org/wiki/Queen_bee#cite_note-1" format="html"
-                    scope="external">[1]</xref></sup> Queens are developed from <xref
-                href="https://en.wikipedia.org/wiki/Larva" format="html" scope="external"
-                >larvae</xref> selected by <xref href="https://en.wikipedia.org/wiki/Worker_bee"
-                format="html" scope="external">worker bees</xref> and specially fed in order to
-            become sexually mature. There is normally only one adult, mated queen in a hive, in
-            which case the bees will usually follow and fiercely protect her.</p>
+        <?oxy_delete author="webauthor" timestamp="20200429T110723+0300" content="&lt;p&gt;The term &lt;b&gt;queen bee&lt;/b&gt; is typically used to refer to an adult, mated female (&lt;xref href=&quot;https://en.wikipedia.org/wiki/Gyne&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;gyne&lt;/xref&gt;) that lives in a &lt;xref href=&quot;https://en.wikipedia.org/wiki/Honey_bee&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;honey bee&lt;/xref&gt; &lt;xref href=&quot;https://en.wikipedia.org/wiki/Colony_(biology)&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;colony&lt;/xref&gt; or &lt;xref href=&quot;https://en.wikipedia.org/wiki/Beehive&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;hive&lt;/xref&gt;; she is usually the mother of most, if not all, of the bees in the beehive.&lt;sup&gt;&lt;xref href=&quot;https://en.wikipedia.org/wiki/Queen_bee#cite_note-1&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;[1]&lt;/xref&gt;&lt;/sup&gt; Queens are developed from &lt;xref href=&quot;https://en.wikipedia.org/wiki/Larva&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;larvae&lt;/xref&gt; selected by &lt;xref href=&quot;https://en.wikipedia.org/wiki/Worker_bee&quot; format=&quot;html&quot; scope=&quot;external&quot;&gt;worker bees&lt;/xref&gt; and specially fed in order to become sexually mature. There is normally only one adult, mated queen in a hive, in which case the bees will usually follow and fiercely protect her.&lt;/p&gt;"?>
         <p>The term "queen bee" can be more generally applied to any dominant reproductive female in
             a colony of a <xref href="https://en.wikipedia.org/wiki/Eusociality" format="html"
                 scope="external">eusocial</xref> bee species other than honey bees. However, as in
@@ -47,12 +34,14 @@
                 floating on royal jelly in opened queen cups laid on top of wax comb</p>
             <p>During the warm parts of the years, female "worker" bees leave the hive every day to
                 collect nectar and pollen. While male bees serve zero architectural or pollinating
-                purpose, their primary function (if they are healthy enough) is to mate with a queen
-                bee. If they are successful, they fall to the ground and die after copulation. Any
-                fertilized egg has the potential to become a queen. Diet in the larval stage
-                determines whether the bee will develop into a queen or a worker. Queens are fed
-                only <xref href="https://en.wikipedia.org/wiki/Royal_jelly" format="html"
-                    scope="external">royal jelly</xref>, a protein-rich secretion from <xref
+                purpose, their primary function (if they are healthy enough) is
+                to<?oxy_comment_start author="webauthor" timestamp="20200429T110737+0300" comment="bbb"?>
+                mate with a queen bee<?oxy_comment_end?>. If they are successful, they fall to the
+                ground and die after copulation. Any fertilized egg has the potential to become a
+                queen. Diet in the larval stage determines whether the bee will develop into a queen
+                or a worker. Queens are fed only <xref
+                    href="https://en.wikipedia.org/wiki/Royal_jelly" format="html" scope="external"
+                    >royal jelly</xref>, a protein-rich secretion from <xref
                     href="https://en.wikipedia.org/wiki/Gland" format="html" scope="external"
                     >glands</xref> on the heads of young workers. Worker larva are fed bee bread
                 which is a mixture of nectar and pollen. All bee larvae are fed some royal jelly for
@@ -69,10 +58,12 @@
                 the queen cup once the queen has laid an egg in a queen cup. In general, the old
                 queen starts laying eggs into queen cups when conditions are right for swarming or
                     <xref href="https://en.wikipedia.org/wiki/Queen_bee#Supersedure" format="html"
-                    scope="external">supersedure</xref>. Swarm cells hang from the bottom of a <xref
-                    href="https://en.wikipedia.org/wiki/Frame_(beehive)" format="html"
-                    scope="external">frame</xref> while supersedure queens or emergency queens are
-                generally raised in cells built out from the face of a frame.</p>
+                    scope="external"
+                >supersedure</xref>.<?oxy_delete author="webauthor" timestamp="20200429T110743+0300" content=" Swarm cells"?><?oxy_insert_start author="irinanadolu" timestamp="20200429T110743+0300"?>nnn<?oxy_insert_end?>
+                hang from the bottom of a <xref href="https://en.wikipedia.org/wiki/Frame_(beehive)"
+                    format="html" scope="external">frame</xref> while supersedure queens or
+                emergency queens are generally raised in cells built out from the face of a
+                frame.</p>
             <p>As the young queen larva pupates with her head down, the workers cap the queen cell
                 with <xref href="https://en.wikipedia.org/wiki/Beeswax" format="html"
                     scope="external">beeswax</xref>. When ready to emerge, the virgin queen will
@@ -546,3 +537,4 @@
         </ol>
     </body>
 </topic>
+<?oxy_options track_changes="on"?>
