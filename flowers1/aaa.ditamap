@@ -4,6 +4,7 @@
     <title>aaa</title>
     <topicref href="concepts/autumnFlowers.dita" collection-type="sequence">
         <topicref href="topics/flowers/chrysanthemum.dita"/>
+        <topicref href="topics/flowers/chrysanthemum%20-%20Copy%20(2).dita"/>
         <topicref href="topics/flowers/chrysanthemum%20-%20Copy.dita"/>
         <topicref href="topics/flowers/salvia.dita"/>
     </topicref>
