@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gzw_rdf_nlb">
-    <title><b>Queen
-            bee<?oxy_delete author="irina_nadolu" timestamp="20200827T144616+0300" content="ee"?></b></title>
+    <title><b>Queen bee</b></title>
     <shortdesc/>
     <body>
-        <p>The term <b>queen bee</b> is
-            typicall<?oxy_insert_start author="irina_nadolu" timestamp="20200827T144625+0300"?>llll<?oxy_insert_end?>y
-            used to refer to an adult, mated female (<xref href="https://en.wikipedia.org/wiki/Gyne"
-                format="html" scope="external">gyne</xref>) that lives in a <xref
-                href="https://en.wikipedia.org/wiki/Honey_bee" format="html" scope="external">honey
-                bee</xref>
+        <p>The term <b>queen bee</b> is typicaaaaally used to refer to an adult, mated female (<xref
+                href="https://en.wikipedia.org/wiki/Gyne" format="html" scope="external"
+            >gyne</xref>) that lives in a <xref href="https://en.wikipedia.org/wiki/Honey_bee"
+                format="html" scope="external">honey bee</xref>
             <xref href="https://en.wikipedia.org/wiki/Colony_(biology)" format="html"
                 scope="external">colony</xref> or <xref href="https://en.wikipedia.org/wiki/Beehive"
                 format="html" scope="external">hive</xref>; she is usually the mother of most, if
@@ -550,4 +547,3 @@
     </body>
 </topic>
 
-<?oxy_options track_changes="on"?>
