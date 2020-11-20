@@ -22,7 +22,10 @@
       <topicref href="topics/flowers/gardenia.dita"/>
       <topicref href="topics/flowers/lilac.dita"/>
     </topicref>
-    <topicref href="aaa.ditamap" format="ditamap"/>
+    <topicref href="concepts/autumnFlowers.dita" collection-type="sequence">
+      <topicref href="topics/flowers/chrysanthemum.dita"/>
+      <topicref href="topics/flowers/salvia.dita"/>
+    </topicref>
     <topicref href="concepts/winterFlowers.dita" collection-type="sequence">
       <topicref href="topics/flowers/gerbera.dita"/>
     </topicref>
