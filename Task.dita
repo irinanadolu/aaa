@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>ccc1</cmd>
             </step>
         </steps>
     </taskbody>
