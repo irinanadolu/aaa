@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gvf_hjd_kfb">
-    <title></title>
+    <title>titlu</title>
     <body>
-        <p></p>
+        <p>1</p>
+        <p id="p_ozr_zw4_snb">2</p>
     </body>
 </topic>
